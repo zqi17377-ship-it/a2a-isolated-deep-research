@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.env
+.venv/
+venv/
+.pytest_tmp/
+.pytest_accept_tmp/
+.pytest_master_tmp/
+.ruff_cache/
+.tmp_workspace/
+.sandbox_runs/
+.env.local
